@@ -1,3 +1,6 @@
+## Live Demo
+https://jorgea2304.github.io/weather-app/
+
 # Weather App
 
 A simple weather application built with HTML, CSS, and JavaScript.
